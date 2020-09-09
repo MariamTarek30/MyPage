@@ -1,0 +1,19 @@
+h1{
+  display: block;
+  font-variant: small-caps;
+  text-align: center;
+  font-size: 65px;
+  background:red;
+}
+h2{
+  display:inline-block;
+  border:solid;
+  width:89px;
+  color:#b00769;
+}
+p{
+  border:solid;
+  font-size:18px;
+  background-color:pink;
+  color:purple;
+}
